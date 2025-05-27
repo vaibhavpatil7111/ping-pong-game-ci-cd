@@ -384,6 +384,7 @@ aws configure
 Once completed, your **AWS CLI** is successfully configured and ready to use!
 
 ```
+aws sts get-caller-identity
 ```
 ## 2. Set up ECS Cluster and ECR Repository
 
